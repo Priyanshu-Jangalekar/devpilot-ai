@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment Variables
+.env
+.env.*
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Coverage
+coverage/
+
+# Misc
+*.pem
